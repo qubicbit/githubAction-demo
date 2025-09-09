@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include=".github\workflows\first-github-action-dotnet.build-check.yml" />
+    <None Include=".github\workflow\first-github-action-dotnet-build-check.yml" />
+  </ItemGroup>
+
 </Project>
