@@ -1,4 +1,4 @@
-name: .NET Build Check
+name: PR.NET Build Check
 
 on:
   pull_request:
